@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003 - PrimeFactors", "003 -
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004 - PalindromicFactors", "004 - PalindromicFactors\004 - PalindromicFactors.csproj", "{13550AFC-BF7B-420D-9094-B85225C471D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005 - SmallestMultiple", "005 - SmallestMultiple\005 - SmallestMultiple.csproj", "{63F20318-EA60-4C94-816C-BD802EB3D0DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{13550AFC-BF7B-420D-9094-B85225C471D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13550AFC-BF7B-420D-9094-B85225C471D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13550AFC-BF7B-420D-9094-B85225C471D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63F20318-EA60-4C94-816C-BD802EB3D0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F20318-EA60-4C94-816C-BD802EB3D0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F20318-EA60-4C94-816C-BD802EB3D0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F20318-EA60-4C94-816C-BD802EB3D0DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
