@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001 - FivesAndThrees", "001
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003 - PrimeFactors", "003 - PrimeFactors\003 - PrimeFactors.csproj", "{68022624-DE29-4F3C-AFEF-5CF7EEF6A599}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004 - PalindromicFactors", "004 - PalindromicFactors\004 - PalindromicFactors.csproj", "{13550AFC-BF7B-420D-9094-B85225C471D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{68022624-DE29-4F3C-AFEF-5CF7EEF6A599}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68022624-DE29-4F3C-AFEF-5CF7EEF6A599}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68022624-DE29-4F3C-AFEF-5CF7EEF6A599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13550AFC-BF7B-420D-9094-B85225C471D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13550AFC-BF7B-420D-9094-B85225C471D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13550AFC-BF7B-420D-9094-B85225C471D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13550AFC-BF7B-420D-9094-B85225C471D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
