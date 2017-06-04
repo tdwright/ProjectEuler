@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008 - LargestProdInSeq", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009 - PythagTriplet", "009 - PythagTriplet\009 - PythagTriplet.csproj", "{AD3D0EDE-4F51-4A8D-B1F8-329153B5BFC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010 - SumOfPrimes", "010 - SumOfPrimes\010 - SumOfPrimes.csproj", "{45190E80-A1DF-42BE-9C75-91906247BCEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011 - LargestProdInGrid", "011 - LargestProdInGrid\011 - LargestProdInGrid.csproj", "{2CEAD675-1EA5-43EF-8F05-009570D47ADF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{AD3D0EDE-4F51-4A8D-B1F8-329153B5BFC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD3D0EDE-4F51-4A8D-B1F8-329153B5BFC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD3D0EDE-4F51-4A8D-B1F8-329153B5BFC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45190E80-A1DF-42BE-9C75-91906247BCEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45190E80-A1DF-42BE-9C75-91906247BCEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45190E80-A1DF-42BE-9C75-91906247BCEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45190E80-A1DF-42BE-9C75-91906247BCEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CEAD675-1EA5-43EF-8F05-009570D47ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CEAD675-1EA5-43EF-8F05-009570D47ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CEAD675-1EA5-43EF-8F05-009570D47ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CEAD675-1EA5-43EF-8F05-009570D47ADF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
